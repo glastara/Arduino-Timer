@@ -9,7 +9,7 @@ This project is a simple countdown timer using an Arduino, an LCD display, and a
 - Reset functionality to set a new time
 - LCD display to show countdown time
 - Audible buzzer alert when the timer ends
-- Onboard LED toggle on start button (due to using pin 13)
+- Onboard LED toggle on start button (due to using pin 13 --> using pin 8 caused erratic behavior)
 
 ## Components Required
 - Arduino board (Uno, Mega, etc.)
